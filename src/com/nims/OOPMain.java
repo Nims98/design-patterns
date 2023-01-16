@@ -1,6 +1,6 @@
 package com.nims;
 
-public class Main {
+public class OOPMain {
     public static void main(String[] args) {
         // loose coupling
         TaxCalculator calculator = new TaxCalculator1();

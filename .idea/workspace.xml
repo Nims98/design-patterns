@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28481fdf-7191-4a56-ab71-e2d683bbba27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/nims/memento/Editor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nims/memento/EditorState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nims/memento/History.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nims/memento/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nims/state/BrushTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nims/state/Canvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nims/state/EraserTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nims/state/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nims/state/PenTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nims/state/SelectedTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nims/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nims/OOPMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.com.nims.state.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nims.memento.Main" />
       <module name="design-patterns" />
@@ -71,8 +73,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.nims.state.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nims.state.Main" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nims.state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.nims.state.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.OOPMain" />
       </list>
@@ -87,7 +103,8 @@
       <option name="presentableId" value="Default" />
       <updated>1673878618716</updated>
       <workItem from="1673878620398" duration="5965000" />
-      <workItem from="1673904164491" duration="3122000" />
+      <workItem from="1673904164491" duration="3797000" />
+      <workItem from="1673969357912" duration="4186000" />
     </task>
     <servers />
   </component>

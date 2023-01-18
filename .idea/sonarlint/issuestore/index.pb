@@ -29,3 +29,31 @@ R
 "src/com/nims/state/EraserTool.java,a\b\ab31d440457762e11f2c5150501fdedc89f655d3
 O
 src/com/nims/state/PenTool.java,1\2\129a827e7c2798df2da62db6fc07348e9adb1045
+O
+src/com/nims/iterator/Main.java,3\e\3e716f1db1d2c43531df0284bee1144d2df0ff05
+Y
+)src/com/nims/iterator/BrowserHistory.java,1\5\153bd8050182686e6ef4e26c852137d856e1a3fe
+I
+src/com/nims/OOPMain.java,1\2\120710da54e779384da10fcdb7effeb1e8ca7ea4
+L
+src/com/nims/state/Main.java,5\3\531bad36f6b95b12366bab057e7c6efa037fef3a
+N
+src/com/nims/state/Canvas.java,d\7\d7417e979f3bc400eefaab72a0f7a862805e4050
+S
+#src/com/nims/iterator/Iterator.java,0\0\009a56ecc286b15e9a40e8263116ea19f6384e25
+U
+%src/com/nims/strategy/ImageStore.java,4\a\4a5d1ff5ce91c7a6045d6817332e49591214034b
+O
+src/com/nims/strategy/Main.java,d\9\d9c36810a84f033b5b89ee42e76043fa04735f98
+U
+%src/com/nims/strategy/Compressor.java,3\8\389d6d04f0b1a563c6c544ad53e6f7c54dfefb72
+Y
+)src/com/nims/strategy/JPEGCompressor.java,f\6\f6609460e29bf6f8e7a07364ab1b0eb9564e4489
+X
+(src/com/nims/strategy/PNGCompressor.java,c\8\c841ed1ce857ce8b39f671e8504bbe3c75d51ca1
+Q
+!src/com/nims/strategy/Filter.java,a\2\a212b979b678783bc85bfee730ab5d9632c1ae2a
+Y
+)src/com/nims/strategy/ContrastFilter.java,0\d\0dd400e231a0976a3d57e5f872bb5a60ac350c67
+V
+&src/com/nims/strategy/VividFilter.java,0\1\01848d7048b3db20057f662e4c665ef2ee406c02

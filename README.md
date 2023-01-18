@@ -19,3 +19,5 @@
     ![class diagram](./src/com/nims/template/template.png)
 6. ### Command Pattern
     ![class diagram](./src/com/nims/command/command.png)
+7. ### Observer Pattern
+    ![class diagram](./src/com/nims/observer/observer.png)

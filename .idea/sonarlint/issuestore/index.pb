@@ -13,10 +13,6 @@ I
 src/com/nims/Account.java,4\b\4bdf327675220e327dea747faf6da02572e05a05
 P
  src/com/nims/TaxCalculator1.java,1\e\1e07220b867ab3ec23492ab0351579ed28d67b2e
-N
-src/com/nims/memento/Main.java,c\3\c3164cce1b2ee070d8a7b7097dd60f00cfc9cc1f
-P
- src/com/nims/memento/Editor.java,6\0\60329a4df1c5aeb89a37d166927d59c3f7f8bcd9
 U
 %src/com/nims/memento/EditorState.java,4\2\421ad8417ec45bb88458521f0f570d72c609a978
 Q
@@ -57,3 +53,18 @@ Y
 )src/com/nims/strategy/ContrastFilter.java,0\d\0dd400e231a0976a3d57e5f872bb5a60ac350c67
 V
 &src/com/nims/strategy/VividFilter.java,0\1\01848d7048b3db20057f662e4c665ef2ee406c02
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+O
+src/com/nims/template/Main.java,3\a\3ae928b6e3ecbd872d89dcf19618285663949f01
+U
+%src/com/nims/template/AuditTrail.java,f\9\f9718535227acbc7daca8b6643f81dc826c32b9d
+O
+src/com/nims/template/Task.java,a\7\a711595c5a04326f12fe69a415141f7caa1df8d3
+\
+,src/com/nims/template/TransferMoneyTask.java,9\6\96cd93a67a82e5ee30aeb690e111ab4c03745671
+P
+ src/com/nims/memento/Editor.java,6\0\60329a4df1c5aeb89a37d166927d59c3f7f8bcd9

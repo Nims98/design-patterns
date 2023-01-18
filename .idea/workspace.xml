@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28481fdf-7191-4a56-ab71-e2d683bbba27" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/nims/observer/Chart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nims/observer/Chart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nims/observer/DataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nims/observer/DataSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nims/observer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nims/observer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nims/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nims/observer/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nims/observer/Spreadsheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nims/observer/Spreadsheet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nims/observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nims/observer/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +155,7 @@
       <workItem from="1674077737246" duration="215000" />
       <workItem from="1674077983935" duration="856000" />
       <workItem from="1674078867165" duration="59000" />
-      <workItem from="1674078938738" duration="3132000" />
+      <workItem from="1674078938738" duration="4243000" />
     </task>
     <servers />
   </component>

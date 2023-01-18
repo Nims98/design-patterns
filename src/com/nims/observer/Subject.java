@@ -12,9 +12,9 @@ public abstract class Subject {
     public void removeObsever(Observer observer){
         observers.remove(observer);
     }
-    public void notifyObserver(){
+    public void notifyObserver(int value){
         for (var observer:observers) {
-            observer.update();
+            observer.update(value);
         }
     }
 }

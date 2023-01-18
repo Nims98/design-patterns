@@ -53,11 +53,6 @@ Y
 )src/com/nims/strategy/ContrastFilter.java,0\d\0dd400e231a0976a3d57e5f872bb5a60ac350c67
 V
 &src/com/nims/strategy/VividFilter.java,0\1\01848d7048b3db20057f662e4c665ef2ee406c02
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 O
 src/com/nims/template/Main.java,3\a\3ae928b6e3ecbd872d89dcf19618285663949f01
 U

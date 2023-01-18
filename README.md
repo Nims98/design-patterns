@@ -17,3 +17,5 @@
     ![class diagram](./src/com/nims/strategy/strategy.png)
 5. ### Template Method Pattern
     ![class diagram](./src/com/nims/template/template.png)
+6. ### Command Pattern
+    ![class diagram](./src/com/nims/command/command.png)

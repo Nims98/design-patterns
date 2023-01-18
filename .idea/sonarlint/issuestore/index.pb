@@ -63,3 +63,8 @@ O
 ,src/com/nims/template/TransferMoneyTask.java,9\6\96cd93a67a82e5ee30aeb690e111ab4c03745671
 P
  src/com/nims/memento/Editor.java,6\0\60329a4df1c5aeb89a37d166927d59c3f7f8bcd9
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
